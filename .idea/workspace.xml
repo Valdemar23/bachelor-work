@@ -6,7 +6,107 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7746f1e8-ab04-4431-a274-a48077093085" name="Default" comment="" />
+    <list default="true" id="7746f1e8-ab04-4431-a274-a48077093085" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/rgrKSZI_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/ae29ffdb-fa94-4595-8d76-2a0c6ab0319b.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_api_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_0_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_36.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xbean_xbean_reflect_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_controlsfx_controlsfx_8_40_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_4_0_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_4_3_10_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_4_3_10_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_4_3_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_18_1_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_3_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_annotations_1_2_0_Beta1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bachelor-work.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/UserRegistrationDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hibernate/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mavenjavafxapp/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mavenjavafxapp/controller/DirectoryItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mavenjavafxapp/controller/InteractWithTheStudentAndTheGroupsForTheLecturer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mavenjavafxapp/controller/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mavenjavafxapp/controller/RegistrationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mavenjavafxapp/controller/UserSettings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/Groups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/Lecturers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/JavaFXApp.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/createFileAndDirectory.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/encryptFileForGroup.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/hello.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/modifyUserSettings.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/registration.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/renameFile.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/student-group.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/JavaFXApp.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/dto/UserRegistrationDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/fxml/createFileAndDirectory.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/fxml/encryptFileForGroup.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/fxml/hello.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/fxml/modifyUserSettings.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/fxml/registration.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/fxml/renameFile.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/fxml/student-group.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hibernate/HibernateUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mavenjavafxapp/MainApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mavenjavafxapp/controller/DirectoryItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mavenjavafxapp/controller/InteractWithTheStudentAndTheGroupsForTheLecturer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mavenjavafxapp/controller/InteractWithTheStudentAndTheGroupsForTheLecturer$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mavenjavafxapp/controller/InteractWithTheStudentAndTheGroupsForTheLecturer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mavenjavafxapp/controller/MainController$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mavenjavafxapp/controller/MainController$10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mavenjavafxapp/controller/MainController$11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mavenjavafxapp/controller/MainController$12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mavenjavafxapp/controller/MainController$13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mavenjavafxapp/controller/MainController$14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mavenjavafxapp/controller/MainController$15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mavenjavafxapp/controller/MainController$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mavenjavafxapp/controller/MainController$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mavenjavafxapp/controller/MainController$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mavenjavafxapp/controller/MainController$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mavenjavafxapp/controller/MainController$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mavenjavafxapp/controller/MainController$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mavenjavafxapp/controller/MainController$8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mavenjavafxapp/controller/MainController$9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mavenjavafxapp/controller/MainController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mavenjavafxapp/controller/RegistrationController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mavenjavafxapp/controller/UserSettings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/models/Groups.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/models/Lecturers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/models/Model.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/models/Students.class" afterDir="false" />
+    </list>
     <ignored path="rgrKSZI.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -119,7 +219,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/mavenjavafxapp/MainApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
+            <state relative-caret-position="420">
               <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -484,13 +584,14 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544827209033" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files (x86)\nodejs\node.exe" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../javafxTest" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -873,12 +974,12 @@
       <workItem from="1585313627247" duration="1457000" />
       <workItem from="1585332961816" duration="138000" />
       <workItem from="1585333138059" duration="3351000" />
-      <workItem from="1585387254660" duration="4659000" />
+      <workItem from="1585387254660" duration="4668000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="363406000" />
+    <option name="totallyTimeSpent" value="363415000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1373" height="875" extended-state="6" />
@@ -1106,7 +1207,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/mavenjavafxapp/MainApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
+        <state relative-caret-position="420">
           <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
